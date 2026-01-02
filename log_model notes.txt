@@ -1,0 +1,1 @@
+The log-transformed model significantly stabilizes residual variance and improves error consistency across price ranges, at the cost of a slightly lower R². This indicates that relative error assumptions better match housing price behavior than absolute error assumptions.
